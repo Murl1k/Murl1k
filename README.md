@@ -8,7 +8,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/murl1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murl1k" height="30" width="40" /></a>
-<a href="https://t.me/egor_backender" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="telegram" height="30" width="30" /> </a>
+<a href="https://t.me/murl1k_m" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="telegram" height="30" width="30" /> </a>
 </p>
 
 
