@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Egor Ponomarev</h1>
-<h3 align="center">A Backend Developer from Russia</h3>
+<h1 align="center">Hi 👋, I'm Egor.</h1>
+<h3 align="center">backend dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murl1k&label=Profile%20views&color=0e75b6&style=flat" alt="murl1k" /> </p>
 
